@@ -1,0 +1,19 @@
+{
+ "name": "nj_ap1",
+ "version": "1.0.0",
+ "description": "first simple node js app",
+ "main": "index.js",
+ "scripts": {
+  "test": "mocha --exit",
+  "build": "npm install",
+  "start": "node index.js"
+ },
+ "author": "",
+ "dependencies": {
+  "chai": "^4.2.0",
+  "expect.js": "^0.3.1",
+  "express": "^4.16.4",
+  "mocha": "^5.2.0"
+ },
+ "license": "ISC"
+}

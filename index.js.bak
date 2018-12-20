@@ -1,0 +1,12 @@
+import {express} from 'express';
+
+let app = express();
+
+app.get('/', function(res, req){
+	res.send('hello LcC');
+});
+
+app.listen(8000, function(){
+	console.log('made a call to /');
+});
+
