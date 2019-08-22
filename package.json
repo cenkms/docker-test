@@ -11,5 +11,9 @@
  "dependencies": {
   "express": "^4.16.4"
  },
- "license": "ISC"
+ "license": "ISC",
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/cenkms/docker-test.git"
+}
 }
