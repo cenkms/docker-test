@@ -1,7 +1,7 @@
 {
  "name": "nj_ap1",
  "version": "1.0.0",
- "description": "first simple node js app",
+ "description": "Simple sample node js app",
  "main": "index.js",
  "scripts": {
   "build": "npm install",
