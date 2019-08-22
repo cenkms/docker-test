@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:10
 
 # create the app folder
 WORKDIR /usr/src/app/nodeapp
